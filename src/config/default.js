@@ -24,7 +24,7 @@ const config = {
   refresh_token: REFRESH_TOKEN,
   client_id: '6600e358-9328-4050-af82-0af9cdde796b',
   client_secret: CLIENT_SECRET,
-  redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
+  redirect_uri: 'https://onedrivecf-6ca28-default-rtdb.firebaseio.com/auth.json',
 
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
